@@ -20,3 +20,13 @@ fun main() {
 }
 
 
+/*fun main(){
+    var x = 4444
+
+    var a = x / 1000%10
+    var b = x/100%10
+    var c = x/10%10
+    var d = x/1%10
+}*/
+
+

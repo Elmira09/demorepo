@@ -1,7 +1,7 @@
 
 
 fun main(){
-                        //arrayOf
+                    //arrayOf
     //Создадим массив и получим значение третьего элемента
     //val myArray = arrayOf(1,2,3,4,5)
     //println(myArray[2])        //3
